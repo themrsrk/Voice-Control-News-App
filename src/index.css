@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://welltec-com.azureedge.net/cache/9/b/b/1/e/2/9bb1e23de8dddaa3ef6c9c98828d1afb7fb7afcc.jpg');
+  background-repeat: repeat-y;
 }
 
 code {
